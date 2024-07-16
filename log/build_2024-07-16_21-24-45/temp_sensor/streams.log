@@ -1,0 +1,20 @@
+[0.006s] Invoking command in '/home/sami/Documents/ros2_session1/build/temp_sensor': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/sami/Documents/ros2_session1/build/temp_sensor -- -j8 -l8
+[0.029s] Invoked command in '/home/sami/Documents/ros2_session1/build/temp_sensor' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/sami/Documents/ros2_session1/build/temp_sensor -- -j8 -l8
+[0.052s] Invoking command in '/home/sami/Documents/ros2_session1/build/temp_sensor': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/sami/Documents/ros2_session1/build/temp_sensor
+[0.056s] -- Install configuration: ""
+[0.057s] -- Up-to-date: /home/sami/Documents/ros2_session1/install/temp_sensor/share/ament_index/resource_index/package_run_dependencies/temp_sensor
+[0.057s] -- Up-to-date: /home/sami/Documents/ros2_session1/install/temp_sensor/share/ament_index/resource_index/parent_prefix_path/temp_sensor
+[0.057s] -- Up-to-date: /home/sami/Documents/ros2_session1/install/temp_sensor/share/temp_sensor/environment/ament_prefix_path.sh
+[0.057s] -- Up-to-date: /home/sami/Documents/ros2_session1/install/temp_sensor/share/temp_sensor/environment/ament_prefix_path.dsv
+[0.057s] -- Up-to-date: /home/sami/Documents/ros2_session1/install/temp_sensor/share/temp_sensor/environment/path.sh
+[0.057s] -- Up-to-date: /home/sami/Documents/ros2_session1/install/temp_sensor/share/temp_sensor/environment/path.dsv
+[0.057s] -- Up-to-date: /home/sami/Documents/ros2_session1/install/temp_sensor/share/temp_sensor/local_setup.bash
+[0.057s] -- Up-to-date: /home/sami/Documents/ros2_session1/install/temp_sensor/share/temp_sensor/local_setup.sh
+[0.057s] -- Up-to-date: /home/sami/Documents/ros2_session1/install/temp_sensor/share/temp_sensor/local_setup.zsh
+[0.057s] -- Up-to-date: /home/sami/Documents/ros2_session1/install/temp_sensor/share/temp_sensor/local_setup.dsv
+[0.057s] -- Up-to-date: /home/sami/Documents/ros2_session1/install/temp_sensor/share/temp_sensor/package.dsv
+[0.057s] -- Up-to-date: /home/sami/Documents/ros2_session1/install/temp_sensor/share/ament_index/resource_index/packages/temp_sensor
+[0.057s] -- Up-to-date: /home/sami/Documents/ros2_session1/install/temp_sensor/share/temp_sensor/cmake/temp_sensorConfig.cmake
+[0.057s] -- Up-to-date: /home/sami/Documents/ros2_session1/install/temp_sensor/share/temp_sensor/cmake/temp_sensorConfig-version.cmake
+[0.057s] -- Up-to-date: /home/sami/Documents/ros2_session1/install/temp_sensor/share/temp_sensor/package.xml
+[0.058s] Invoked command in '/home/sami/Documents/ros2_session1/build/temp_sensor' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/sami/Documents/ros2_session1/build/temp_sensor
