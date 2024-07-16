@@ -1,0 +1,9 @@
+/home/sami/Documents/ros2_session1/build/temp_sensor/CMakeFiles/uninstall.dir
+/home/sami/Documents/ros2_session1/build/temp_sensor/CMakeFiles/temp_sensor_uninstall.dir
+/home/sami/Documents/ros2_session1/build/temp_sensor/CMakeFiles/test.dir
+/home/sami/Documents/ros2_session1/build/temp_sensor/CMakeFiles/edit_cache.dir
+/home/sami/Documents/ros2_session1/build/temp_sensor/CMakeFiles/rebuild_cache.dir
+/home/sami/Documents/ros2_session1/build/temp_sensor/CMakeFiles/list_install_components.dir
+/home/sami/Documents/ros2_session1/build/temp_sensor/CMakeFiles/install.dir
+/home/sami/Documents/ros2_session1/build/temp_sensor/CMakeFiles/install/local.dir
+/home/sami/Documents/ros2_session1/build/temp_sensor/CMakeFiles/install/strip.dir

@@ -1,0 +1,15 @@
+/home/sami/Documents/ros2_session1/install/temp_sensor/share/ament_index/resource_index/package_run_dependencies/temp_sensor
+/home/sami/Documents/ros2_session1/install/temp_sensor/share/ament_index/resource_index/parent_prefix_path/temp_sensor
+/home/sami/Documents/ros2_session1/install/temp_sensor/share/temp_sensor/environment/ament_prefix_path.sh
+/home/sami/Documents/ros2_session1/install/temp_sensor/share/temp_sensor/environment/ament_prefix_path.dsv
+/home/sami/Documents/ros2_session1/install/temp_sensor/share/temp_sensor/environment/path.sh
+/home/sami/Documents/ros2_session1/install/temp_sensor/share/temp_sensor/environment/path.dsv
+/home/sami/Documents/ros2_session1/install/temp_sensor/share/temp_sensor/local_setup.bash
+/home/sami/Documents/ros2_session1/install/temp_sensor/share/temp_sensor/local_setup.sh
+/home/sami/Documents/ros2_session1/install/temp_sensor/share/temp_sensor/local_setup.zsh
+/home/sami/Documents/ros2_session1/install/temp_sensor/share/temp_sensor/local_setup.dsv
+/home/sami/Documents/ros2_session1/install/temp_sensor/share/temp_sensor/package.dsv
+/home/sami/Documents/ros2_session1/install/temp_sensor/share/ament_index/resource_index/packages/temp_sensor
+/home/sami/Documents/ros2_session1/install/temp_sensor/share/temp_sensor/cmake/temp_sensorConfig.cmake
+/home/sami/Documents/ros2_session1/install/temp_sensor/share/temp_sensor/cmake/temp_sensorConfig-version.cmake
+/home/sami/Documents/ros2_session1/install/temp_sensor/share/temp_sensor/package.xml

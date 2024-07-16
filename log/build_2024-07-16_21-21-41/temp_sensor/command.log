@@ -1,0 +1,6 @@
+Invoking command in '/home/sami/Documents/ros2_session1/build/temp_sensor': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/sami/Documents/ros2_session1/temp_sensor -DCMAKE_INSTALL_PREFIX=/home/sami/Documents/ros2_session1/install/temp_sensor
+Invoked command in '/home/sami/Documents/ros2_session1/build/temp_sensor' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/sami/Documents/ros2_session1/temp_sensor -DCMAKE_INSTALL_PREFIX=/home/sami/Documents/ros2_session1/install/temp_sensor
+Invoking command in '/home/sami/Documents/ros2_session1/build/temp_sensor': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/sami/Documents/ros2_session1/build/temp_sensor -- -j8 -l8
+Invoked command in '/home/sami/Documents/ros2_session1/build/temp_sensor' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/sami/Documents/ros2_session1/build/temp_sensor -- -j8 -l8
+Invoking command in '/home/sami/Documents/ros2_session1/build/temp_sensor': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/sami/Documents/ros2_session1/build/temp_sensor
+Invoked command in '/home/sami/Documents/ros2_session1/build/temp_sensor' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/sami/Documents/ros2_session1/build/temp_sensor
